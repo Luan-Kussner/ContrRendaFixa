@@ -1,8 +1,10 @@
 Contratação de Renda Fixa
+
 contrRendaFixa é um sistema desenvolvido em .NET 8.0 para gerenciar contratações de produtos financeiros com base em regras de negócio específicas.
 O projeto inclui uma API que interage com um banco de dados PostgreSQL e um worker que realiza o cálculo de pagamentos das contratações diariamente.
 
 Funcionalidades
+
 Gestão de Contratantes e Produtos: Cadastro e gerenciamento de contratantes e produtos financeiros.
 Regras de Contratação: Validação de contratações com base no segmento do contratante e tipo de produto.
 Pagamentos: Registro de pagamentos para contratações realizadas.
